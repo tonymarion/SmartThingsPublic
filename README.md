@@ -13,3 +13,8 @@ Follow us on the web:
 
 * Twitter: http://twitter.com/smartthingsdev
 * Facebook: http://facebook.com/smartthingsdevelopers
+
+This is a test:
+
+* I want to test 123
+* and test 234
